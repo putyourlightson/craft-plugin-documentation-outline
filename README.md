@@ -6,7 +6,7 @@ While every plugin’s documentation will be unique, it is useful to have a comm
 
 This is a community resource and contributions are welcome through issues or pull requests.
 
-# 
+---
 
 # Gamma Plugin for Craft CMS 3
 
@@ -30,6 +30,7 @@ It helps end-users by giving them insights into all manner of things, allowing t
 - [Settings](#settings)
 - [How It Works](#how-it-works)
 - [Roadmap](#roadmap)
+- [Credits](#credits)
 
 ## License
 
@@ -97,3 +98,33 @@ An array of site IDs to ignore when collecting data.
 #### Ignore Users
 
 An array of user IDs to ignore when collecting data.
+
+## How It Works
+
+> Use this section to go in-depth into how the plugin works, using subsections as appropriate.
+
+The plugin monitors various things, collecting data about your sites, users and interactions.
+
+### Data Collection
+
+Data is collected automatically as the site is used.
+
+### Reporting
+
+Reports are created based on collected data.
+
+## Roadmap
+
+> Add planned features so that users can see what is in the pipeline.
+
+### Version 2.x
+
+- Better multi-site support.
+- Visual reports and graphs.
+- More advanced configuration settings.
+
+## Credits
+
+Inspired in part by [pluginfactory.io](https://pluginfactory.io).
+
+Created by [PutYourLightsOn](https://putyourlightson.com/).
