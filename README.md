@@ -4,7 +4,9 @@ What follows is intended to be a reusable documentation outline for [Craft CMS](
 
 While every plugin’s documentation will be unique, it is useful to have a common structure that makes it easy to read and navigate. This documentation outline is displayed on a single page, however it can be split into multiple pages if necessary.
 
-This is a community resource and contributions are welcome through issues or pull requests.
+A real world example of a plugin that uses this documentation outline is the [Blitz](https://github.com/putyourlightson/craft-blitz) plugin.
+
+This is a community resource and contributions are welcome through pull requests.
 
 ---
 
@@ -53,7 +55,7 @@ This plugin requires Craft CMS 3.0.0 or later.
 
 > Installing a plugin is straightforward and doesn’t require more than a single sentence. 
 
-Install the plugin from the Craft Plugin Store in your site’s control panel or manually using composer:
+Install the plugin from the Craft Plugin Store in your site’s control panel or manually using composer.
 
 ```
 composer require putyourlightson/craft-gamma
@@ -71,7 +73,7 @@ You can output reports in your twig templates using the following tags:
 
 ## Settings
 
-> Explain what each of the plugin settings does. Embed a screenshot beneath the text if appropriate.
+> Give a summary of the plugin settings or explain what each of the settings does. Embed a screenshot beneath the text if appropriate.
 
 #### Enable Reporting
 
