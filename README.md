@@ -71,7 +71,7 @@ You can output reports in your twig templates using the following tags:
 
 ## Settings
 
-> Explain what each of the plugin settings does.
+> Explain what each of the plugin settings does. Embed a screenshot beneath the text if appropriate.
 
 #### Enable Reporting
 
@@ -101,7 +101,7 @@ An array of user IDs to ignore when collecting data.
 
 ## How It Works
 
-> Use this section to go in-depth into how the plugin works, using subsections as appropriate.
+> Use this section to go in-depth into how the plugin works, using subsections and screenshots where appropriate.
 
 The plugin monitors various things, collecting data about your sites, users and interactions.
 
@@ -124,6 +124,8 @@ Reports are created based on collected data.
 - More advanced configuration settings.
 
 ## Credits
+
+> Credit anyone whoe deserves it.
 
 Inspired in part by [pluginfactory.io](https://pluginfactory.io).
 
