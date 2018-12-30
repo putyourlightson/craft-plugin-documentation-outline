@@ -125,7 +125,7 @@ Reports are created based on collected data.
 
 ## Credits
 
-> Credit anyone whoe deserves it.
+> Credit anyone who deserves it.
 
 Inspired in part by [pluginfactory.io](https://pluginfactory.io).
 
