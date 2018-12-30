@@ -6,15 +6,7 @@ While every plugin’s documentation will be unique, it is useful to have a comm
 
 This is a community resource and contributions are welcome through issues or pull requests.
 
-
-
-
-
----
-
-
-
-
+# 
 
 # Gamma Plugin for Craft CMS 3
 
