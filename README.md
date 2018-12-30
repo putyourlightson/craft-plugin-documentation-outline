@@ -6,11 +6,13 @@ While every plugin’s documentation will be unique, it is useful to have a comm
 
 This is a community resource and contributions are welcome through issues or pull requests.
 
+
+
 ---
 
 
 
-# Gamma plugin for Craft CMS 3
+# Gamma Plugin for Craft CMS 3
 
 > Add a summary of what the plugin does and how it can help end-users in a few sentences. 
 
@@ -18,7 +20,7 @@ The Gamma plugin provides useful, intelligent, insightful and rather vague funct
 
 It helps end-users by giving them insights into all manner of things, allowing them to make more informed decisions about their website and business.
 
-> Embed an image beneath the text if appropriate. Images should be stored in a folder in the same repository, in `/docs/images` for example.
+> Embed an image beneath the text if appropriate. Images should be stored in a folder in the same repository, for example in `/docs/images`.
 
 ![Plugin image](./docs/images/gamma-plugin.jpg)
 
@@ -38,7 +40,7 @@ It helps end-users by giving them insights into all manner of things, allowing t
 > For a commercial license you should state the license and renewal fees.
 
 This plugin requires a commercial license which can be purchased through the Craft Plugin Store.
-The license fee is $X plus Y per subsequent year for updates (optional).
+The license fee is $X plus \$Y per subsequent year for updates (optional).
 
 > For a free license you should state 
 
@@ -90,7 +92,11 @@ The level of detail to collect about the site.
 
 ### Configuration Settings
 
-The plugin comes with a config file for a multi-environment way to set the plugin settings. The config file also provides more advanced plugin configuration settings. To use it, copy the `config.php` to your Craft `config` directory as `gamma.php` and uncomment any settings you wish to change.
+The plugin comes with a config file for a multi-environment way to set the plugin settings. The config file also provides more advanced plugin configuration settings. To use it, copy the `config.php` to your project’s main `config` directory as `gamma.php` and uncomment any settings you wish to change.
+
+#### Ignore Sites
+
+An array of site IDs to ignore when collecting data.
 
 #### Ignore Users
 
