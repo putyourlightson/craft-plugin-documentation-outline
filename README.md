@@ -24,7 +24,7 @@ It helps end-users by giving them insights into all manner of things, allowing t
 
 ## Contents
 
-> A table of contents containing the top-level headings (H2) makes the documentation easier to navigate. Second-level navigation (H3) can be added if appropriate.
+> A table of contents containing the top-level headings (H2) makes the documentation easier to navigate.       Second-level navigation (H3) can be added if appropriate.
 
 - [License](#license)
 - [Requirements](#installation)
@@ -38,7 +38,7 @@ It helps end-users by giving them insights into all manner of things, allowing t
 
 > For a commercial license you should state the license and renewal fees.
 
-This plugin requires a commercial license which can be purchased through the Craft Plugin Store.
+This plugin requires a commercial license which can be purchased through the Craft Plugin Store.  
 The license fee is $X plus \$Y per subsequent year for updates (optional).
 
 > For a free license you should state 
